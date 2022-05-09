@@ -1,0 +1,17 @@
+{
+  "db":{
+    "name": "tcs_weather_api",
+    "host": "127.0.0.1",
+    "username":"tcs_dev",
+    "password":"ADD YOUR DB PASSWORD",
+    "dialect":"mysql"
+  },
+
+  "apiKeys":{
+    "openWeatherMap": "ADD YOUR OPEN WEATHER MAP API KEY"
+  },
+
+  "server": {
+    "port":4000
+  }
+}
